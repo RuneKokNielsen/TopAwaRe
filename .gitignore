@@ -1,0 +1,9 @@
+ext/*
+*~
+*.make
+*CMakeFiles*
+*.cmake
+*.a
+*Makefile
+*Cache*
+docs/*
